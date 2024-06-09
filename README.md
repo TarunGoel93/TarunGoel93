@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Goel</h1>
 <h3 align="center">I am a first-year developer passionate about coding and eager to learn and grow in the tech world.</h3>
 
-<img  align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+<img  align="right" alt="coding" width="400" src="[https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif](https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarungoel93&label=Profile%20views&color=0e75b6&style=flat" alt="tarungoel93" /> </p>
 
