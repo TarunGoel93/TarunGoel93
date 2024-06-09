@@ -1,3 +1,6 @@
+![logo](https://github.com/TarunGoel93/TarunGoel93/blob/main/github-header-image.png)
+
+
 <h1 align="center">Hi 👋, I'm Tarun Goel</h1>
 <h3 align="center">I am a first-year developer passionate about coding and eager to learn and grow in the tech world.</h3>
 
