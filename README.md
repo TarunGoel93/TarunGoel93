@@ -1,5 +1,10 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Tarun Goel</h1>
 <h3 align="center">I am a first-year developer passionate about coding and eager to learn and grow in the tech world.</h3>
+
+<img align="right" alt="coding" width=400 src="https://media1.tenor.com/m/cm-dS4ipBUMAAAAC/grok-chatgpt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarungoel93&label=Profile%20views&color=0e75b6&style=flat" alt="tarungoel93" /> </p>
 
