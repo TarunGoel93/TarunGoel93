@@ -33,3 +33,33 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarungoel93&show_icons=true&locale=en" alt="tarungoel93" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarungoel93&" alt="tarungoel93" /></p>
+
+
+<section class="bg-black py-10">
+  <h2 class="text-white text-2xl font-bold text-left mb-8">Certificates</h2>
+  <div class="certificates-container">
+    <div class="certificate">
+      <img src="https://github.com/TarunGoel93/TarunGoel93/blob/main/Responsive%20Web%20Design.png" alt="Data Science Professional Certificate" class="w-full">
+      <div class="p-4">
+        <h3 class="text-lg font-bold mb-2">Responsive Web Design</h3>
+        <p class="text-sm text-gray-600">Issued by freeCodeCamp.</p>
+      </div>
+    </div>
+    <div class="certificate">
+      <img src="https://github.com/TarunGoel93/TarunGoel93/blob/main/Software%20Intern.png" alt="Machine Learning Certification" class="w-full">
+      <div class="p-4">
+        <h3 class="text-lg font-bold mb-2">Software Engineer Intern</h3>
+        <p class="text-sm text-gray-600">Issued by HackerRank.</p>
+      </div>
+    </div>
+    <div class="certificate">
+      <img src="https://github.com/TarunGoel93/TarunGoel93/blob/main/CSS%20Basics.png" alt="Deep Learning Specialization" class="w-full">
+      <div class="p-4">
+        <h3 class="text-lg font-bold mb-2">CSS (Basics)</h3>
+        <p class="text-sm text-gray-600">Issued by HackerRank.</p>
+      </div>
+    </div>
+
+
+  </div>
+</section>
