@@ -35,6 +35,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarungoel93&" alt="tarungoel93" /></p>
 
 
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TarunGoel93&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+
+
+
+
 <section class="bg-black py-10">
   <h2 class="text-white text-2xl font-bold text-left mb-8">Certificates</h2>
   <div class="certificates-container">
