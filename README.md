@@ -406,11 +406,11 @@ detection_system = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunGoel93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunGoel93&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TarunGoel93&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=TarunGoel93&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunGoel93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunGoel93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TarunGoel93&custom_title=Tarun's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=58a6ff&area=true&hide_border=true&radius=8)
 
