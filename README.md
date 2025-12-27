@@ -383,16 +383,15 @@ detection_system = {
 
 <div align="center">
 
-| Certificate | Issuing Organization | Skills Validated |
-|:---:|:---:|:---|
-| ![Cert](https://img.shields.io/badge/Software_Intern-HackerRank-00EA64?style=for-the-badge&logo=hackerrank) | HackerRank | DSA, OOP, Python |
-| ![Cert](https://img.shields.io/badge/ML_Specialization-Coursera-0056D2?style=for-the-badge&logo=coursera) | Stanford/Coursera | Supervised Learning, Neural Networks |
-| ![Cert](https://img.shields.io/badge/Kaggle_Host-Kaggle-20BEFF?style=for-the-badge&logo=kaggle) | Kaggle | Community Competitions |
-| ![Cert](https://img.shields.io/badge/Web_Design-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp) | freeCodeCamp | HTML, CSS, Responsive Design |
-| ![Cert](https://img.shields.io/badge/Computer_Vision-DeepLearning.AI-FF6F00?style=for-the-badge) | DeepLearning.AI | CNN, Object Detection |
-| ![Cert](https://img.shields.io/badge/Python_Developer-Udemy-A435F0?style=for-the-badge&logo=udemy) | Udemy | Advanced Python, APIs |
-| ![Cert](https://img.shields.io/badge/Git_&_GitHub-LinkedIn-0077B5?style=for-the-badge&logo=linkedin) | LinkedIn Learning | Version Control, Collaboration |
-| ![Cert](https://img.shields.io/badge/Arduino_IoT-Arduino-00979D?style=for-the-badge&logo=arduino) | Arduino | Embedded Systems, Sensors |
+|                                                                                                                                 Certificate                                                                                                                                 | Issuing Organization | Skills Validated                          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------: | :---------------------------------------- |
+|                                          [![Cert](https://img.shields.io/badge/Software_Intern-HackerRank-00EA64?style=for-the-badge\&logo=hackerrank)](https://github.com/TarunGoel93/TarunGoel93/blob/main/Software%20Intern.png)                                         |      HackerRank      | Python, Problem Solving, DSA              |
+|                                 [![Cert](https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0A0A23?style=for-the-badge\&logo=freecodecamp)](https://github.com/TarunGoel93/TarunGoel93/blob/main/Responsive%20Web%20Design.png)                                |     freeCodeCamp     | HTML, CSS, Responsive Design              |
+|                                               [![Cert](https://img.shields.io/badge/CSS_Basics-HackerRank-00EA64?style=for-the-badge\&logo=hackerrank)](https://github.com/TarunGoel93/TarunGoel93/blob/main/CSS%20Basics.png)                                              |      HackerRank      | CSS Fundamentals, Styling                 |
+| [![Cert](https://img.shields.io/badge/Virtual_Internship-The_Forage-0052CC?style=for-the-badge)](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_68f8e850d6d2903b386e1ef8_1761205875850_completion_certificate.pdf) |      The Forage      | Software Engineering, Industry Experience |
+|                                                  [![Cert](https://img.shields.io/badge/Kaggle_Community_Host-Kaggle-20BEFF?style=for-the-badge\&logo=kaggle)](https://www.kaggle.com/certification/badges/tarungoel9311/81)                                                 |        Kaggle        | Community Competitions, Hosting           |
+
+
 
 </div>
 
@@ -416,77 +415,6 @@ detection_system = {
 
 ---
 
-## 📈 Coding Profiles & Competitive Programming
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ezCoder7?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/ezCoder7/)
-
-| Platform | Profile | Stats |
-|:---:|:---:|:---|
-| 🟠 **LeetCode** | [@ezCoder7](https://leetcode.com/u/ezCoder7/) | 500+ Problems Solved |
-| 🟢 **HackerRank** | [@tarungoel93](https://www.hackerrank.com/profile/tarungoel93) | 5★ Problem Solving |
-| 🔵 **Kaggle** | [@tarungoel93](https://www.kaggle.com/tarungoel93) | Competition Host |
-| 🟣 **Codeforces** | [@tarungoel93](https://codeforces.com/) | Pupil (Rating: 1200+) |
-| 🔴 **GeeksforGeeks** | [@tarungoel93](https://auth.geeksforgeeks.org/) | 1000+ Practice Points |
-
-</div>
-
----
-
-## 📚 Current Learning Path (2025)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
-
-```mermaid
-graph LR
-    A[Generative AI] --> B[LLMs & Fine-tuning]
-    A --> C[Stable Diffusion]
-    B --> D[RAG Applications]
-    C --> E[Image Generation]
-    F[Advanced CV] --> G[YOLO v8/v9]
-    F --> H[Transformer Models]
-    G --> I[Real-time Detection]
-    H --> J[Vision Transformers]
-    K[MLOps] --> L[Model Deployment]
-    K --> M[Monitoring & Scaling]
-```
-
-### 🎯 2025 Goals
-- [ ] Master **LangChain** and **RAG** architectures
-- [ ] Contribute to **5 major open-source AI projects**
-- [ ] Publish research paper on **efficient object detection**
-- [ ] Deploy **3 production-ready ML systems**
-- [ ] Achieve **Expert rating on LeetCode** (1800+)
-- [ ] Complete **AWS Machine Learning Specialty** certification
-- [ ] Conduct **5+ technical workshops** on AI/ML topics
-
----
-
-## 🤝 Open Source Contributions
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="400">
-</div>
-
-### 📦 Active Repositories
-
-| Project | Description | Tech Stack | Stars |
-|:---|:---|:---|:---:|
-| 🎨 **AI-Art-Generator** | Text-to-image generation using Stable Diffusion | Python, PyTorch, Gradio | ⭐ 45 |
-| 🔍 **YOLOv5-Custom-Trainer** | Simplified pipeline for custom object detection | YOLOv5, OpenCV, Flask | ⭐ 38 |
-| 📝 **NLP-Toolkit** | Pre-built NLP utilities for text processing | NLTK, spaCy, Transformers | ⭐ 29 |
-| 🤖 **n8n-Automation-Templates** | Ready-to-use automation workflows | n8n, JavaScript, APIs | ⭐ 22 |
-
-### 🌟 Contribution Stats
-- **Total Contributions:** 800+ in the last year
-- **Pull Requests:** 50+ merged across various projects
-- **Issues Resolved:** 30+
-- **Active Projects:** 4 ongoing collaborations
-
----
 
 ## 🎨 Skills Visualization
 
