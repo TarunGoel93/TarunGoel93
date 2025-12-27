@@ -208,6 +208,11 @@ Impact:
   - Projects Uploaded: 130+
   - Kaggle Submissions: 120+
   - GitHub Profiles Created: 145+
+
+Proofs:
+  Website: https://tarungoel93.github.io/Work/
+  GitHub Repository: https://github.com/TarunGoel93/Work
+
 ```
 
 #### 🎯 Key Contributions
