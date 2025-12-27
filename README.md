@@ -204,10 +204,10 @@ Topics Covered:
     - Project showcasing for recruiters
 
 Impact:
-  - Students Trained: 50+
-  - Projects Uploaded: 30+
-  - Kaggle Submissions: 20+
-  - GitHub Profiles Created: 45+
+  - Students Trained: 150+
+  - Projects Uploaded: 130+
+  - Kaggle Submissions: 120+
+  - GitHub Profiles Created: 145+
 ```
 
 #### 🎯 Key Contributions
