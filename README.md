@@ -514,7 +514,10 @@ Opportunities:
 ---
 
 <div align="center">
-  
-### 💡 "The best way to predict the future is to invent it." - Alan Kay
 
-<img src="https://capsule-render
+### 💡 "The best way to predict the future is to invent it." — Alan Kay
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+</div>
+
