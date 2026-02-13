@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi, I'm Tarun Goel
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%26+Automation+Engineer+%F0%9F%A4%96;4x+Hackathon+Champion+%F0%9F%8F%86;Computer+Vision+%7C+NLP+Specialist+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%26+Automation+Engineer+%F0%9F%A4%96;5x+Hackathon+Champion+%F0%9F%8F%86;Computer+Vision+%7C+NLP+Specialist+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -42,7 +42,7 @@ class TarunGoel:
     
     def achievements(self):
         return {
-            "hackathons_won": 4,
+            "hackathons_won": 5,
             "projects_deployed": 5,
             "certifications": 8,
             "workshops_delivered": 2,
